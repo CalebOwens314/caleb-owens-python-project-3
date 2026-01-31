@@ -1,0 +1,8 @@
+Student ACT Score Statistics
+Count: 1000
+Minimum: 1.00
+Maximum: 36.00
+Mean: 19.15
+Median: 20.00
+Mode: 32.00
+Standard Deviation: 10.69

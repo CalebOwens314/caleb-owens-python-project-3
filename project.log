@@ -90,3 +90,97 @@
 2026-01-21 10:32:56 | INFO | P03 | github_actions=False
 2026-01-21 10:32:56 | INFO | P03 | START main()
 2026-01-21 10:32:56 | INFO | P03 | END main()
+2026-01-31 02:34:19 | INFO | P03 | === RUN START ===
+2026-01-31 02:34:19 | INFO | P03 | project=Pipelines: Read, Process, Verify, Write (ETVL)
+2026-01-31 02:34:19 | INFO | P03 | repo_dir=caleb-owens-python-project-3
+2026-01-31 02:34:19 | INFO | P03 | python=3.14.2
+2026-01-31 02:34:20 | INFO | P03 | os=Windows 11
+2026-01-31 02:34:20 | INFO | P03 | shell=powershell
+2026-01-31 02:34:20 | INFO | P03 | cwd=.
+2026-01-31 02:34:20 | INFO | P03 | github_actions=False
+2026-01-31 02:34:20 | INFO | P03 | START main()
+2026-01-31 02:34:20 | INFO | P03 | CSV: START
+2026-01-31 02:34:20 | INFO | P03 | CSV: wrote C:\Repos\caleb-owens-python-project-3\data\processed\csv_ladder_score_stats.txt
+2026-01-31 02:34:20 | INFO | P03 | CSV: END
+2026-01-31 02:34:20 | INFO | P03 | XLSX: START
+2026-01-31 02:34:20 | INFO | P03 | XLSX: wrote C:\Repos\caleb-owens-python-project-3\data\processed\xlsx_feedback_github_count.txt
+2026-01-31 02:34:20 | INFO | P03 | XLSX: END
+2026-01-31 02:34:20 | INFO | P03 | JSON: START
+2026-01-31 02:34:20 | INFO | P03 | JSON: wrote C:\Repos\caleb-owens-python-project-3\data\processed\json_astronauts_by_craft.txt
+2026-01-31 02:34:20 | INFO | P03 | JSON: END
+2026-01-31 02:34:20 | INFO | P03 | TXT: START
+2026-01-31 02:34:20 | INFO | P03 | TXT: wrote C:\Repos\caleb-owens-python-project-3\data\processed\txt_summary.txt
+2026-01-31 02:34:20 | INFO | P03 | TXT: END
+2026-01-31 02:34:20 | INFO | P03 | END main()
+2026-01-31 02:34:38 | INFO | P03 | === RUN START ===
+2026-01-31 02:34:38 | INFO | P03 | project=Pipelines: Read, Process, Verify, Write (ETVL)
+2026-01-31 02:34:38 | INFO | P03 | repo_dir=caleb-owens-python-project-3
+2026-01-31 02:34:38 | INFO | P03 | python=3.14.2
+2026-01-31 02:34:38 | INFO | P03 | os=Windows 11
+2026-01-31 02:34:38 | INFO | P03 | shell=powershell
+2026-01-31 02:34:38 | INFO | P03 | cwd=.
+2026-01-31 02:34:38 | INFO | P03 | github_actions=False
+2026-01-31 02:34:38 | INFO | P03 | START main()
+2026-01-31 02:34:38 | INFO | P03 | END main()
+2026-01-31 02:42:23 | INFO | P03 | === RUN START ===
+2026-01-31 02:42:23 | INFO | P03 | project=Pipelines: Read, Process, Verify, Write (ETVL)
+2026-01-31 02:42:23 | INFO | P03 | repo_dir=caleb-owens-python-project-3
+2026-01-31 02:42:23 | INFO | P03 | python=3.14.2
+2026-01-31 02:42:23 | INFO | P03 | os=Windows 11
+2026-01-31 02:42:23 | INFO | P03 | shell=powershell
+2026-01-31 02:42:23 | INFO | P03 | cwd=.
+2026-01-31 02:42:23 | INFO | P03 | github_actions=False
+2026-01-31 02:42:23 | INFO | P03 | START main()
+2026-01-31 02:42:23 | INFO | P03 | END main()
+2026-01-31 03:09:13 | INFO | P03 | === RUN START ===
+2026-01-31 03:09:13 | INFO | P03 | project=Pipelines: Read, Process, Verify, Write (ETVL)
+2026-01-31 03:09:13 | INFO | P03 | repo_dir=caleb-owens-python-project-3
+2026-01-31 03:09:13 | INFO | P03 | python=3.14.2
+2026-01-31 03:09:13 | INFO | P03 | os=Windows 11
+2026-01-31 03:09:13 | INFO | P03 | shell=powershell
+2026-01-31 03:09:13 | INFO | P03 | cwd=.
+2026-01-31 03:09:13 | INFO | P03 | github_actions=False
+2026-01-31 03:09:13 | INFO | P03 | START main()
+2026-01-31 03:09:13 | INFO | P03 | CSV: START
+2026-01-31 03:09:13 | INFO | P03 | CSV: wrote C:\Repos\caleb-owens-python-project-3\data\processed\act_test_scores_stats.txt
+2026-01-31 03:09:13 | INFO | P03 | CSV: END
+2026-01-31 03:09:13 | INFO | P03 | END main()
+2026-01-31 03:10:02 | INFO | P03 | === RUN START ===
+2026-01-31 03:10:02 | INFO | P03 | project=Pipelines: Read, Process, Verify, Write (ETVL)
+2026-01-31 03:10:02 | INFO | P03 | repo_dir=caleb-owens-python-project-3
+2026-01-31 03:10:02 | INFO | P03 | python=3.14.2
+2026-01-31 03:10:02 | INFO | P03 | os=Windows 11
+2026-01-31 03:10:02 | INFO | P03 | shell=powershell
+2026-01-31 03:10:02 | INFO | P03 | cwd=.
+2026-01-31 03:10:02 | INFO | P03 | github_actions=False
+2026-01-31 03:10:02 | INFO | P03 | START main()
+2026-01-31 03:10:02 | INFO | P03 | CSV: START
+2026-01-31 03:10:02 | INFO | P03 | CSV: wrote C:\Repos\caleb-owens-python-project-3\data\processed\act_test_scores_stats.txt
+2026-01-31 03:10:02 | INFO | P03 | CSV: END
+2026-01-31 03:10:02 | INFO | P03 | END main()
+2026-01-31 03:10:19 | INFO | P03 | === RUN START ===
+2026-01-31 03:10:19 | INFO | P03 | project=Pipelines: Read, Process, Verify, Write (ETVL)
+2026-01-31 03:10:19 | INFO | P03 | repo_dir=caleb-owens-python-project-3
+2026-01-31 03:10:19 | INFO | P03 | python=3.14.2
+2026-01-31 03:10:19 | INFO | P03 | os=Windows 11
+2026-01-31 03:10:19 | INFO | P03 | shell=powershell
+2026-01-31 03:10:19 | INFO | P03 | cwd=.
+2026-01-31 03:10:19 | INFO | P03 | github_actions=False
+2026-01-31 03:10:19 | INFO | P03 | START main()
+2026-01-31 03:10:19 | INFO | P03 | CSV: START
+2026-01-31 03:10:19 | INFO | P03 | CSV: wrote C:\Repos\caleb-owens-python-project-3\data\processed\act_test_scores_stats.txt
+2026-01-31 03:10:19 | INFO | P03 | CSV: END
+2026-01-31 03:10:19 | INFO | P03 | END main()
+2026-01-31 03:17:52 | INFO | P03 | === RUN START ===
+2026-01-31 03:17:52 | INFO | P03 | project=Pipelines: Read, Process, Verify, Write (ETVL)
+2026-01-31 03:17:52 | INFO | P03 | repo_dir=caleb-owens-python-project-3
+2026-01-31 03:17:52 | INFO | P03 | python=3.14.2
+2026-01-31 03:17:52 | INFO | P03 | os=Windows 11
+2026-01-31 03:17:52 | INFO | P03 | shell=powershell
+2026-01-31 03:17:52 | INFO | P03 | cwd=.
+2026-01-31 03:17:52 | INFO | P03 | github_actions=False
+2026-01-31 03:17:52 | INFO | P03 | START main()
+2026-01-31 03:17:52 | INFO | P03 | CSV: START
+2026-01-31 03:17:52 | INFO | P03 | CSV: wrote C:\Repos\caleb-owens-python-project-3\data\processed\act_test_scores_stats.txt
+2026-01-31 03:17:52 | INFO | P03 | CSV: END
+2026-01-31 03:17:52 | INFO | P03 | END main()

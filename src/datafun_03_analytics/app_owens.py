@@ -1,7 +1,4 @@
-"""app_yourname.py - Project script.
-
-TODO: Replace "yourname" in the filename with your actual name or alias.
-
+"""app_owens.py - Project script.
 TODO: Read the examples carefully. Choose your data source of one of the provided types.
 TODO: Create and implement a new Python file (module) in this folder following the associated example.
 TODO: Your module should have:
@@ -14,8 +11,8 @@ TODO: Your module should have:
 - define a run_pipeline() function that calls E, T, L, and adds a new output file to data/processed/.
 TODO: Import and call your new module run_pipeline function in this script.
 
-Author: Your Name or Alias
-Date: 2026-01
+Author: Caleb Owens
+Date: 2026-01-31
 
 Practice key Python skills:
 - pathlib for cross-platform paths
@@ -45,7 +42,7 @@ from datafun_toolkit.logger import get_logger, log_header
 # === IMPORT LOCAL MODULE FUNCTIONS ===
 # REQ: imports from other modules in this project must use full package path
 # TODO: create and import your own data pipeline module here. See the example code.
-
+from datafun_03_analytics.owens_csv_pipeline import run_csv_pipeline
 
 # === CONFIGURE LOGGER ONCE PER MODULE ===
 
@@ -67,7 +64,7 @@ def main() -> None:
     LOG.info("START main()")
 
     # TODO: call your imported data pipeline that reads from data/raw and writes to data/processed.
-
+    run_csv_pipeline(raw_dir=RAW_DIR, processed_dir=PROCESSED_DIR, logger=LOG)
     LOG.info("END main()")
 
 
