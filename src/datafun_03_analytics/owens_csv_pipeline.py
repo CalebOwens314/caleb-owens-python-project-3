@@ -74,7 +74,7 @@ def transform_scores_to_stats(*, scores: list[float]) -> dict[str, float]:
         scores: List of float values.
 
     Returns:
-        Dictionary with keys: count, min, max, mean, stdev.
+        Dictionary with keys: count, min, max, mean, median, mode,stdev.
     """
     if not scores:
         raise ValueError("No numeric values found for analysis.")
